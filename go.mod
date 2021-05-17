@@ -12,7 +12,7 @@ require (
 	github.com/ipfs/interface-go-ipfs-core v0.4.0
 	github.com/ipfs/iptb v1.4.0
 	github.com/ipfs/iptb-plugins v0.3.0
-	github.com/libp2p/go-libp2p-core v0.6.1
+	github.com/libp2p/go-libp2p-core v0.8.5
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/multiformats/go-multiaddr v0.3.0
 	github.com/multiformats/go-multiaddr-net v0.2.0
